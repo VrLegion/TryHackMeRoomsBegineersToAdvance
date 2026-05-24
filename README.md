@@ -11,7 +11,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com)
 [![Rooms](https://img.shields.io/badge/Total%20Rooms-133-00ff41?style=for-the-badge&logo=hackthebox&logoColor=white)](https://tryhackme.com)
 [![Status](https://img.shields.io/badge/Status-Active%20Learning-brightgreen?style=for-the-badge&logo=statuspage&logoColor=white)](https://tryhackme.com)
-[![Stars](https://img.shields.io/github/stars/VrLegion/TryHackMeRoomsBegineersToAdvance?style=for-the-badge&color=yellow)](https://github.com/VrLegion/TryHackMeRoomsBegineersToAdvance)
+
 
 <br/>
 

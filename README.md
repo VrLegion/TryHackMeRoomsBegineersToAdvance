@@ -1,4 +1,4 @@
-# TryHackMeRoomsBegineersToAdvance
+# 📂 TryHackMe Learning Roadmap
 
 ## 📜 Table of Contents
 
@@ -21,66 +21,66 @@
 
 ## 🚀 Introductory Rooms
 
-| Room Name | Difficulty | Description / Focus |
-| :--- | :---: | :--- |
-| Welcome | Info | Introduction to TryHackMe and how the platform works. |
-| Tutorial | Info | Learn how to connect to the TryHackMe network via OpenVPN or the AttackBox. |
-| OpenVPN | Info | Detailed guide on setting up and troubleshooting your OpenVPN connection. |
-| Intro to Research | Easy | Learn how to use public resources, Google dorks, and documentation to solve security puzzles. |
-| Google Dorking | Easy | Master advanced search operators to find hidden information on the web. |
+| Room Name | Link |
+| :--- | :---: |
+| Welcome | [Start Room](https://tryhackme.com/room/welcome) |
+| Tutorial | [Start Room](https://tryhackme.com/room/tutorial) |
+| OpenVPN | [Start Room](https://tryhackme.com/room/openvpn) |
+| Intro to Research | [Start Room](https://tryhackme.com/room/introtoresearch) |
+| Google Dorking | [Start Room](https://tryhackme.com/room/googledorking) |
 
 ## 🐧 Linux Fundamentals
 
-| Room Name | Difficulty | Description / Focus |
-| :--- | :---: | :--- |
-| Linux Fundamentals Part 1 | Easy | Basic terminal navigation, running commands, and understanding the file system. |
-| Linux Fundamentals Part 2 | Easy | Managing file permissions, operators, and basic tool interactions. |
-| Linux Fundamentals Part 3 | Easy | Advanced automation, package management, processes, and logging utilities. |
-| Bash Scripting | Easy | Learn how to write bash scripts to automate repetitive tasks in Linux environment. |
+| Room Name | Link |
+| :--- | :---: |
+| Linux Fundamentals Part 1 | [Start Room](https://tryhackme.com/room/linuxfundamentalspart1) |
+| Linux Fundamentals Part 2 | [Start Room](https://tryhackme.com/room/linuxfundamentalspart2) |
+| Linux Fundamentals Part 3 | [Start Room](https://tryhackme.com/room/linuxfundamentalspart3) |
+| Bash Scripting | [Start Room](https://tryhackme.com/room/bashscripting) |
 
 ## 🪟 Windows Fundamentals
 
-| Room Name | Difficulty | Description / Focus |
-| :--- | :---: | :--- |
-| Windows Fundamentals Part 1 | Easy | Understanding the Windows desktop UI, system settings, and basic navigation. |
-| Windows Fundamentals Part 2 | Easy | Exploring System Configurations, UAC, Resource Monitor, and Registry Editor. |
-| Windows Fundamentals Part 3 | Easy | Active Directory concepts, auditing, logging, and security overview. |
+| Room Name | Link |
+| :--- | :---: |
+| Windows Fundamentals Part 1 | [Start Room](https://tryhackme.com/room/windowsfundamentalspart1) |
+| Windows Fundamentals Part 2 | [Start Room](https://tryhackme.com/room/windowsfundamentalspart2) |
+| Windows Fundamentals Part 3 | [Start Room](https://tryhackme.com/room/windowsfundamentalspart3) |
 
 ## 🔍 Reconnaissance
 
-| Room Name | Difficulty | Description / Focus |
-| :--- | :---: | :--- |
-| Passive Reconnaissance | Easy | Gathering information about a target without directly interacting with their systems. |
-| Active Reconnaissance | Easy | Directly interacting with target systems using tools like ping, traceroute, and telnet. |
-| Nmap | Easy | Industry-standard network scanning tool to discover open ports and services. |
-| Protocols and Servers | Easy | Understanding common network protocols like HTTP, FTP, SMB, and SSH during enumeration. |
-| Subdomain Enumeration | Easy | Discovering hidden subdomains to expand the target attack surface. |
+| Room Name | Link |
+| :--- | :---: |
+| Passive Reconnaissance | [Start Room](https://tryhackme.com/room/passiverecon) |
+| Active Reconnaissance | [Start Room](https://tryhackme.com/room/activerecon) |
+| Nmap | [Start Room](https://tryhackme.com/room/furthernmap) |
+| Protocols and Servers | [Start Room](https://tryhackme.com/room/protocolsandservers) |
+| Subdomain Enumeration | [Start Room](https://tryhackme.com/room/subdomainenumeration) |
 
 ## 🌐 Networking
 
-| Room Name | Difficulty | Description / Focus |
-| :--- | :---: | :--- |
-| Intro to Networking | Easy | Understanding the OSI model, IP addresses, MAC addresses, and routing. |
-| Packets & Frames | Easy | Diving deep into network traffic structure, headers, and protocol formatting. |
-| Wireshark: The Basics | Easy | Capturing and analyzing live network traffic using Wireshark. |
-| Wireshark: Packet Analysis | Medium | Digging deeper into traffic analysis, stream rebuilding, and detecting anomalies. |
+| Room Name | Link |
+| :--- | :---: |
+| Intro to Networking | [Start Room](https://tryhackme.com/room/introtonetworking) |
+| Packets & Frames | [Start Room](https://tryhackme.com/room/packetsandframes) |
+| Wireshark: The Basics | [Start Room](https://tryhackme.com/room/wiresharkthebasics) |
+| Wireshark: Packet Analysis | [Start Room](https://tryhackme.com/room/wiresharkpacketanalysis) |
 
 ## 🛠️ Tooling
 
-| Room Name | Difficulty | Description / Focus |
-| :--- | :---: | :--- |
-| Burp Suite: The Basics | Easy | Configuring your browser proxy and capturing raw web traffic. |
-| Burp Suite: Repeater | Easy | Modifying and re-sending individual HTTP requests to test responses. |
-| Burp Suite: Intruder | Easy | Fuzzing parameter values, dictionary attacks, and brute-forcing credentials. |
-| Metasploit: Introduction | Easy | Navigation, modules, payloads, and basic exploit launching. |
-| Metasploit: Exploitation | Medium | Utilizing post-exploitation modules, pivoting, and managing active sessions. |
+| Room Name | Link |
+| :--- | :---: |
+| Burp Suite: The Basics | [Start Room](https://tryhackme.com/room/burpsuitethebasics) |
+| Burp Suite: Repeater | [Start Room](https://tryhackme.com/room/burpsuiterepeater) |
+| Burp Suite: Intruder | [Start Room](https://tryhackme.com/room/burpsuiteintruder) |
+| Metasploit: Introduction | [Start Room](https://tryhackme.com/room/metasploitintro) |
+| Metasploit: Exploitation | [Start Room](https://tryhackme.com/room/metasploitexploitation) |
 
 ## 🕸️ Web
 
-| Room Name | Difficulty | Description / Focus |
-| :--- | :---: | :--- |
-| Web Fundamentals | Easy | How web servers talk to browsers and the basics of HTTP requests/responses. |
-| OWASP Top 10 | Easy | Core awareness of the top critical security risks targeting web applications. |
-| SQL Injection | Medium | Exploiting vulnerable database queries to extract sensitive application data. |
-| Command Injection | Medium | Executing arbitrary operating system commands through a vulnerable web form. |
-| Cross-Site Scripting (XSS) | Medium | Injecting malicious scripts into trusted websites to target end-users. |
+| Room Name | Link |
+| :--- | :---: |
+| Web Fundamentals | [Start Room](https://tryhackme.com/room/webfundamentals) |
+| OWASP Top 10 | [Start Room](https://tryhackme.com/room/owasptop10) |
+| SQL Injection | [Start Room](https://tryhackme.com/room/sqlinjection) |
+| Command Injection | [Start Room](https://tryhackme.com/room/commandinjection) |
+| Cross-Site Scripting (XSS) | [Start Room](https://tryhackme.com/room/xss) |

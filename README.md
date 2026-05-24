@@ -4,7 +4,7 @@
 
 <br/>
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:006400&height=200&section=header&text=0xOverClock&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=TryHackMe%20Roadmap%20%7C%20Offensive%20%26%20Defensive%20Security&descAlignY=55&descSize=16&descColor=aaffaa&animation=twinkling)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=0xOverClock&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=TryHackMe%20Roadmap%20%7C%20Offensive%20%26%20Defensive%20Security&descAlignY=55&descSize=16&descColor=aaffaa&animation=twinkling" />
 
 <br/>
 

@@ -4,7 +4,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=0xOverClock&fontSize=60&fontColor=00ff41&fontAlignY=35&desc=TryHackMe%20Roadmap%20%7C%20Offensive%20%26%20Defensive%20Security&descAlignY=55&descSize=16&descColor=aaffaa&animation=twinkling" />
+![](https://img.shields.io/badge/-%F0%9F%94%90%200xOverClock%20%7C%20TryHackMe%20Roadmap%20%F0%9F%94%90-000000?style=for-the-badge)
 
 <br/>
 
